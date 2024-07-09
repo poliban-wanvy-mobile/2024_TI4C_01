@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UTS_Kelompok1</string>
+    <string name="my_profile">KELOMPOK 1</string>
+    <string name="my_image">My Image</string>
+    <string name="nama">Ilham Arifani</string>
+    <string name="nim">C030322078</string>
+    <string name="prodi">Teknik Informatika</string>
+    <string name="nama1">Muhammad Ripai</string>
+    <string name="nim1">C030322091</string>
+    <string name="nama2">Muhammad Akmal</string>
+    <string name="nim2">C030322084</string>
+    <string name="nama3">Muhammad Rizqi Nugraha</string>
+    <string name="nim3">C030322093</string>
+    <string name="nama4">M. Alvin Saputra</string>
+    <string name="nim4">C030322079</string>
+    <string name="nama5">Dios Trilefaltar</string>
+    <string name="nim5">C030322074</string>
+</resources>
